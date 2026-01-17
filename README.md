@@ -21,7 +21,7 @@ Absolute price drops can make lower-priced brands appear “safer” by default.
 Relative value loss (percentage) provides a more reliable comparison of depreciation risk across brands.
 
 ## Example Output
-![Relative Value Loss by Brand](outputs/Relative Value Loss by Brand.png)
+![Relative Value Loss by Brand](relative_value_loss_by_brand.png)
 
 ## Limitations
 - No buy price or time-to-sell data
